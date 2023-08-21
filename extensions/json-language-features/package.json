@@ -123,7 +123,7 @@
         "request-light": "^0.2.5",
         "vscode-extension-telemetry": "0.1.1",
         "vscode-languageclient": "^6.1.1",
-        "vscode-nls": "^4.1.1"
+        "vscode-nls": "^4.1.2"
     },
     "devDependencies": {
         "@types/node": "^12.11.7"
