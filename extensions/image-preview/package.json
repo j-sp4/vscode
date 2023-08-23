@@ -68,7 +68,7 @@
     "build-ext": "node ../../node_modules/gulp/bin/gulp.js --gulpfile ../../build/gulpfile.extensions.js compile-extension:image-preview ./tsconfig.json"
   },
   "dependencies": {
-    "vscode-extension-telemetry": "0.1.1",
+    "vscode-extension-telemetry": "0.4.5",
     "vscode-nls": "^4.0.0"
   }
 }
